@@ -1,0 +1,32 @@
+logging:
+  level:
+    org:
+      hibernate:
+        SQL: DEBUG
+        BasicBinder: TRACE
+
+spring:
+  sql:
+    init:
+      platform: spring-postgresql
+  datasource:
+    username: ${dbUser}
+    password: ${dbPswd}
+    url: jdbc:postgresql://${dbHost}:${dbPort}/dbName
+    schema: schemaName
+  flyway:
+    defaultSchema: schemaName
+  jpa:
+    open-in-view: true
+    hibernate:
+      ddl-auto: none
+    properties:
+      hibernate:
+        default_schema: ssi
+        dialect: org.hibernate.dialect.PostgreSQL92Dialect
+        jdbc:
+          lob:
+            "[non_contextual_creation]": true
+  h2:
+    console:
+      enabled: false
