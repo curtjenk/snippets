@@ -1,0 +1,35 @@
+# run java app with postgres database
+version: '3.1'
+services:
+    dbpostgresql:
+        image: "postgres:14.5"
+        container_name: dbpostgresql
+        networks:
+            - ssi-loader-network
+        ports:
+            - "5432:5432"
+        volumes:
+            - /var/www/ssiloader/database/data:/var/lib/postgresql/data
+        environment:
+            POSTGRES_DB: ssi
+            POSTGRES_PASSWORD: ${POSTGRES_PASSWORD}
+    app:
+        container_name: ssi-loader
+        image: ssi-loader:1.0.0
+        user: "${UID}:${GID}"
+        networks:
+            - ssi-loader-network
+        build: ./
+        ports:
+            - "8081:8080"
+        depends_on:
+            - dbpostgresql
+        volumes:
+            - /var/www/ssiloader/logs:/workspace/logs
+            - /var/www/ssiloader/files:/ssifiles
+        environment:
+            - SPRING_DATASOURCE_URL=jdbc:postgresql://dbpostgresql:5432/ssi
+            - SPRING_DATASOURCE_USERNAME=${SPRING_DATASOURCE_USERNAME}
+            - SPRING_DATASOURCE_PASSWORD=${SPRING_DATASOURCE_PASSWORD}
+networks:
+    ssi-loader-network:
