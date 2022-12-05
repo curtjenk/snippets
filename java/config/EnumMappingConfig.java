@@ -1,3 +1,4 @@
+package java.config;
 
 import org.springframework.boot.convert.ApplicationConversionService;
 import org.springframework.context.annotation.Configuration;
@@ -5,6 +6,7 @@ import org.springframework.format.FormatterRegistry;
 import org.springframework.web.servlet.config.annotation.WebMvcConfigurer;
 
 /*
+    https://www.baeldung.com/spring-boot-enum-mapping       
     This class configures the FormatterRegistry with ready-to-use converters
     appropriate for most Spring Boot applications.  Among these out-of-the-box converters,
     we find StringToEnumIgnoringCaseConverterFactory. As the name implies,
