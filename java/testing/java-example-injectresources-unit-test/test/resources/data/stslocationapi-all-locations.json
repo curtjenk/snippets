@@ -1,0 +1,453 @@
+{
+    "locationList": [
+        {
+            "locationNumber": "80612",
+            "core": {
+                "locationName": "Hersheypark",
+                "physicalAddress": {
+                    "address1": "300 Park Blvd",
+                    "address2": "Founders Way",
+                    "city": "Hershey",
+                    "county": "Dauphin",
+                    "state": "PA",
+                    "zipCode": {
+                        "zip": "17033"
+                    },
+                    "coordinates": {
+                        "latitude": 40.28869,
+                        "longitude": -76.655879
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "LIC",
+                "locationTypeCode": "SAT",
+                "locationSubTypeCode": "PARK"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2017-04-15",
+                "openDate": "2017-04-08",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "GENM",
+                "marketName": "Harrisburg-Lancaster-Lebanon-York, PA",
+                "directMarketCode": 566
+            }
+        },
+        {
+            "locationNumber": "01783",
+            "core": {
+                "locationName": "Egg Harbor FSU",
+                "physicalAddress": {
+                    "address1": "6038 Black Horse Pike",
+                    "city": "Egg Harbor Township",
+                    "county": "Atlantic",
+                    "state": "NJ",
+                    "zipCode": {
+                        "zip": "08234",
+                        "zipExtension": "9752"
+                    },
+                    "coordinates": {
+                        "latitude": 39.435938,
+                        "longitude": -74.611474
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2011-04-28",
+                "openDate": "2011-04-28",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "PHIL",
+                "marketName": "Philadelphia, PA",
+                "directMarketCode": 504
+            }
+        },
+        {
+            "locationNumber": "80559",
+            "core": {
+                "locationName": "Georgia Southwestern State University",
+                "physicalAddress": {
+                    "address1": "800 Gsw State University Dr",
+                    "address2": "Canes Den Student Center",
+                    "city": "Americus",
+                    "county": "Sumter",
+                    "state": "GA",
+                    "zipCode": {
+                        "zip": "31709",
+                        "zipExtension": "4376"
+                    },
+                    "coordinates": {
+                        "latitude": 32.05451,
+                        "longitude": -84.21759296
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "LIC",
+                "locationTypeCode": "SAT",
+                "locationSubTypeCode": "COLL"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2014-08-11",
+                "openDate": "2014-08-11",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "GENM",
+                "marketName": "Albany, GA",
+                "directMarketCode": 525
+            }
+        },
+        {
+            "locationNumber": "01029",
+            "core": {
+                "locationName": "Lake Conroe Parkway FSU",
+                "physicalAddress": {
+                    "address1": "1321 W Davis St",
+                    "city": "Conroe",
+                    "county": "Montgomery",
+                    "state": "TX",
+                    "zipCode": {
+                        "zip": "77304",
+                        "zipExtension": "2309"
+                    },
+                    "coordinates": {
+                        "latitude": 30.315585,
+                        "longitude": -95.474202
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -05:00",
+                    "timeZoneName": "(GMT -05:00) Central Time (US & Canada)",
+                    "timeZoneId": "America/Chicago"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2001-11-01",
+                "openDate": "2001-11-01",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "HOUS",
+                "marketName": "Houston, TX",
+                "directMarketCode": 618
+            }
+        },
+        {
+            "locationNumber": "02093",
+            "core": {
+                "locationName": "Eldorado & Tollway FSU",
+                "physicalAddress": {
+                    "address1": "5211 Eldorado Pkwy",
+                    "city": "Frisco",
+                    "county": "Denton",
+                    "state": "TX",
+                    "zipCode": {
+                        "zip": "75033",
+                        "zipExtension": "8671"
+                    },
+                    "coordinates": {
+                        "latitude": 33.17457,
+                        "longitude": -96.84114
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -05:00",
+                    "timeZoneName": "(GMT -05:00) Central Time (US & Canada)",
+                    "timeZoneId": "America/Chicago"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2008-11-20",
+                "openDate": "2008-11-20",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "DALL",
+                "marketName": "Dallas-Ft. Worth, TX",
+                "directMarketCode": 623
+            }
+        },
+        {
+            "locationNumber": "04200",
+            "core": {
+                "locationName": "5th Street Hwy FSU",
+                "physicalAddress": {
+                    "address1": "4205 N 5th Street Hwy",
+                    "city": "Temple",
+                    "county": "Berks",
+                    "state": "PA",
+                    "zipCode": {
+                        "zip": "19560",
+                        "zipExtension": "1737"
+                    },
+                    "coordinates": {
+                        "latitude": 40.397947,
+                        "longitude": -75.926829
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2020-01-30",
+                "openDate": "2020-01-30",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "PHIL",
+                "marketName": "Philadelphia, PA",
+                "directMarketCode": 504
+            }
+        },
+        {
+            "locationNumber": "04352",
+            "core": {
+                "locationName": "Linden FSU",
+                "physicalAddress": {
+                    "address1": "900 W Edgar Road",
+                    "city": "Linden",
+                    "county": "Union",
+                    "state": "NJ",
+                    "zipCode": {
+                        "zip": "07036"
+                    },
+                    "coordinates": {
+                        "latitude": 40.618418,
+                        "longitude": -74.251531
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2021-03-10",
+                "openDate": "2021-03-10",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "NYCY",
+                "marketName": "New York, NY",
+                "directMarketCode": 501
+            }
+        },
+        {
+            "locationNumber": "03495",
+            "core": {
+                "locationName": "The Loop FSU",
+                "physicalAddress": {
+                    "address1": "3286 N John Young Pkwy",
+                    "city": "Kissimmee",
+                    "county": "Osceola",
+                    "state": "FL",
+                    "zipCode": {
+                        "zip": "34741",
+                        "zipExtension": "7549"
+                    },
+                    "coordinates": {
+                        "latitude": 28.343076,
+                        "longitude": -81.421858
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2015-12-16",
+                "openDate": "2015-12-16",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "ORLA",
+                "marketName": "Orlando-Daytona Beach-Melbourne, FL",
+                "directMarketCode": 534
+            }
+        },
+        {
+            "locationNumber": "03138",
+            "core": {
+                "locationName": "Saluda Pointe FSU",
+                "physicalAddress": {
+                    "address1": "4295 Sunset Blvd",
+                    "city": "Lexington",
+                    "county": "Lexington",
+                    "state": "SC",
+                    "zipCode": {
+                        "zip": "29072",
+                        "zipExtension": "9146"
+                    },
+                    "coordinates": {
+                        "latitude": 34.01328735,
+                        "longitude": -81.15226291
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -04:00",
+                    "timeZoneName": "(GMT -04:00) Eastern Time (US & Canada)",
+                    "timeZoneId": "America/New_York"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "2014-05-29",
+                "openDate": "2014-05-29",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "COLM",
+                "marketName": "Columbia, SC",
+                "directMarketCode": 546
+            }
+        },
+        {
+            "locationNumber": "00457",
+            "core": {
+                "locationName": "Bryan FSU",
+                "physicalAddress": {
+                    "address1": "2210 Briarcrest Dr",
+                    "city": "Bryan",
+                    "county": "Brazos",
+                    "state": "TX",
+                    "zipCode": {
+                        "zip": "77802",
+                        "zipExtension": "5017"
+                    },
+                    "coordinates": {
+                        "latitude": 30.659699,
+                        "longitude": -96.331003
+                    },
+                    "countryName": "United States",
+                    "isoCountryCode": "US"
+                },
+                "timeZone": {
+                    "gmtOffset": "GMT -05:00",
+                    "timeZoneName": "(GMT -05:00) Central Time (US & Canada)",
+                    "timeZoneId": "America/Chicago"
+                },
+                "confidentialSite": false
+            },
+            "locationTypeCodes": {
+                "conceptType": "CFA",
+                "locationTypeCode": "FSU",
+                "locationSubTypeCode": "FSU",
+                "locationFormatType": "Stand Alone"
+            },
+            "locationStatus": {
+                "locationStatus": "open",
+                "projectedOpenDate": "1996-11-07",
+                "openDate": "1996-11-07",
+                "tempCloseFlag": false
+            },
+            "marketDetails": {
+                "marketLevelMarketCode": "GENM",
+                "marketName": "Waco-Temple-Bryan, TX",
+                "directMarketCode": 625
+            }
+        }
+    ],
+    "count": 10
+}

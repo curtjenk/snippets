@@ -1,0 +1,51 @@
+{
+    "locationList": [
+        {
+            "locationNumber": "80612"
+        },
+        {
+            "locationNumber": "01783",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        },
+        {
+            "locationNumber": "80559"
+        },
+        {
+            "locationNumber": "01029",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        },
+        {
+            "locationNumber": "02093",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        },
+        {
+            "locationNumber": "00299",
+            "posTaxCalcMethod": "POS Tax Calculation"
+        },
+        {
+            "locationNumber": "04200",
+            "posTaxCalcMethod": "Real-Time Calculation"
+        },
+        {
+            "locationNumber": "04352",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        },
+        {
+            "locationNumber": "03495",
+            "posTaxCalcMethod": "Real-Time Calculation"
+        },
+        {
+            "locationNumber": "03138",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        },
+        {
+            "locationNumber": "00457",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        },
+        {
+            "locationNumber": "03283",
+            "posTaxCalcMethod": "Local Tax Calculation"
+        }
+    ],
+    "count": 12
+}
