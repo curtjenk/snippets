@@ -1,0 +1,7 @@
+
+n
+>java/loading_properties/from_properties_file/config.properties,9/f/9f0a99b8f170c0c3facb2d6ca095b4deb0f9b5d9
+s
+Cjava/loading_properties/from_database/ReadDbAdditionalAppProps.java,7/f/7ff423d631dc8451c86fa8b6bc655ff85524c4aa
+n
+>java/loading_properties/from_properties_file/ConfigLoader.java,2/5/25745e4c107e3b415d608400ae4808ff85dd4b00
